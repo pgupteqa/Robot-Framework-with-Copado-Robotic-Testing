@@ -1,0 +1,19 @@
+{
+   "Billing_Address":
+   [{
+        "billing_street": "17801 Georgia Avenue",
+        "billing_city": "Olney",
+        "billing_zip": "20832-2267",
+        "billing_state": "Maryland",
+        "billing_country": "United States"
+   }],
+
+   "Shipping_Address":
+   [{
+       "shipping_street": "17801 Georgia Avenue",
+        "shipping_city": "Olney",
+        "shipping_zip": "20832-2267",
+        "shipping_state": "Maryland",
+        "shipping_country": "United States"
+   }]
+}
